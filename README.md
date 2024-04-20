@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krishna Sharma
 - 👀 I’m interested in Web development, eCommerce.
 - 🌱 I’m currently learning JavaScript.
-- 📫 How to reach me - mailto:krishnavashistha18@gmail.com
+- 📫 How to reach me - <a href="mailto:krishnavashistha18@gmail.com">Send Email</a>
 - 😄 Pronouns: He/Him
 
 <!---
